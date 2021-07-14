@@ -4,7 +4,7 @@
 
 ## Youtube Video
 
-> Overview
+> Short code: [youtube-video]https://www.youtube.com/watch?v=XqZsoesa55w[/youtube-video]
 
 ![youtube-video-1](_images/shortcodes/youtube-video-1.png)
 
@@ -12,74 +12,103 @@
 
 ![youtube-video-2](_images/shortcodes/youtube-video-2.png)
 
-## Our Office
+## Featured Agents
 
-> Overview
+> [featured-agents title="Explore Featured Agents"]At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores[/featured-agents]
 
-![our-office-1](_images/shortcodes/our-office-1.png)
+![our-office-1](_images/shortcodes/explore_agent.png)
 
-> Edit title && sub title
+> Insert shortcode in admin
 
-![our-office-2](_images/shortcodes/our-office-2.png)
+![ Feature_agent boxes Interface](_images/userguide/feature_agent.png) 
 
-> Edit offices . It's in __Admin -> Appearance -> Theme__ options (tab __ Contact info boxes__).
+## Hero banner
 
-![ Contact info boxes Interface](_images/userguide/contact-info-boxes-1.png) 
+>[hero-banner title="Find Your Property" bg="general/banner-3.jpg" style="3" overlay="6"]From as low as $10 per day with limited time offer[/hero-banner]
 
-![ Contact info boxes Setting](_images/userguide/contact-info-boxes-2.png) 
+> Style 1
 
-## Category Grid
+![hero_banner_1](_images/shortcodes/hero_banner_1.png)
 
-> Overview
+> Style 2
 
-![category-grid-1](_images/shortcodes/category-grid-1.png)
+![hero_banner_2](_images/shortcodes/hero_banner_2.png)
 
-> Setting
+> Style 3
 
-![category-grid-2](_images/shortcodes/category-grid-2.png)
+![hero_banner_3](_images/shortcodes/hero_banner_3.png)
 
+> Style 4
 
-## Category List 1
+![hero_banner_4](_images/shortcodes/hero_banner_4.png)
 
-> Overview
+> Style 5
 
-![category-list-1](_images/shortcodes/category-list-1-1.png)
+![hero_banner_5](_images/shortcodes/hero_banner_5.png)
 
-> Setting
+> Style 6
 
-![category-list-2](_images/shortcodes/category-list-1-2.png)
+![hero_banner_6](_images/shortcodes/hero_banner_6.png)
 
+> Style Map
 
-## Category List 2
+![hero_banner_7](_images/shortcodes/hero_banner_map.png)
 
-> Overview
+> Hero properties
 
-![category-list-1](_images/shortcodes/category-list-2-1.png)
-
-> Setting
-
-![category-list-2](_images/shortcodes/category-list-2-2.png)
-
-## Category Big
-
-> Overview
-
-![category-big-1](_images/shortcodes/category-big-2.png)
+![hero_properties](_images/shortcodes/hero_properties.png)
 
 > Setting
 
-![category-big-2](_images/shortcodes/category-big-1.png)
+![hero_banner_setting](_images/shortcodes/home_banner_setting.png)
 
+## Cover banner
 
-## Theme Galleries
+> [cover-banner title="Search Perfect Place In Your City" bg="general/banner-2.jpg" btntext="Explore More Property" btnlink="#"]We post regulary most powerful articles for help and support.[/cover-banner]
 
-> Overview
+![cover_banner](_images/shortcodes/cover_banner.png)
 
-![theme-galleries-1](_images/shortcodes/theme-galleries-1.png)
+## News latest
 
-> Setting
+>[latest-news title="News By Resido,3"]At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores[/latest-news]
 
-![theme-galleries-2](_images/shortcodes/theme-galleries-2.png)
+![latest_news](_images/shortcodes/news.png)
+
+## Featured properties
+
+>[featured-properties title="Explore Good Places" limit="6"]At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores[/featured-properties]
+
+![featured_properties](_images/shortcodes/feature_properties.png)
+
+## Download app section
+
+>[download-app-section][/download-app-section]
+
+![download_app](_images/shortcodes/download_app.png)
+
+## Properties slide
+
+>[properties-slide title="Recent Property For Rent" limit="6"]At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores[/properties-slide]
+
+![properties_slide](_images/shortcodes/properties-slide.png)
+
+## Find By Locations
+
+>[properties-by-locations title="Find By Locations"]At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores[/properties-by-locations]
+
+![properties-by-locations](_images/shortcodes/find_by_location.png)
+
+## Testimonials
+
+>[testimonials title="Good Reviews By Customers" description="At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores"][/testimonials]
+
+![testimonials](_images/shortcodes/testimonials.png)
+
+## Our Packages
+
+> [our-packages title="See Our Packages" description="At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores"][/our-packages]
+
+![our-packages](_images/shortcodes/our-packages.png)
 
 ## Popular Categories
 
