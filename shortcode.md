@@ -110,51 +110,17 @@
 
 ![our-packages](_images/shortcodes/our-packages.png)
 
-## Popular Categories
-
-> Overview
-
-![popular-categories-1](_images/shortcodes/popular-categories-1.png)
-
-> Setting
-
-![popular-categories-2](_images/shortcodes/popular-categories-2.png)
-
-## Post slider
-
-### Style 1
-
-![post-slider-style-1](_images/shortcodes/post-slider-style-1.png)
-
-### Style 2
-
-![post-slider-style-2](_images/shortcodes/post-slider-style-2.png)
-
-### Style 3
-
-![post-slider-style-3](_images/shortcodes/post-slider-style-3.png)
-
-> Setting
-
-![post-slider](_images/shortcodes/post-slider.png)
-
-
 ## Post and Sidebar
 
 > Overview
 
 ![post-sidebar-1](_images/shortcodes/post-sidebar-1.png)
 
-> Setting
-
-![post-sidebar-2](_images/shortcodes/post-sidebar-2.png)
-
 ## Featured grid
 
 > Overview
 
-![Featured](_images/shortcodes/post-sidebar-1.png)
-
+![post-sidebar-2](_images/shortcodes/post-sidebar-2.png)
 
 ## Contact form
 
