@@ -17,6 +17,5 @@
 - [Short code](shortcode.md)
 - [Config](config.md)
 - Available plugins
-  - [Ads](plugin-ads.md)
   - [Analytics](plugin-analytics.md)
   - [Backup](plugin-backup.md)

@@ -4,7 +4,6 @@
 
 > Theme 
 
-- Fix Ads
 - Improve UI Wiget Newsletter.
 
 > Backend
@@ -12,7 +11,7 @@
 - Optimize queries.
 - Refactor code & improve performance.
 - Improve theme translations & Backup
-- Fix plugin Language & Ads
+- Fix plugin Language
 
 ## 1.1.0 ( June 13, 2021 )
 
