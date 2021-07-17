@@ -25,14 +25,6 @@ Edit __Copyright, Designed by, Enable Preloader?, Site description, Address, Pho
 ![Cookie consent](_images/userguide/social.png) 
 
 
-##  Contact info boxes.
-
-> It's in __Admin -> Appearance -> Theme__ options (tab __ Contact info boxes__).
-
-![ Contact info boxes Interface](_images/userguide/contact-info-boxes-1.png) 
-
-![ Contact info boxes Setting](_images/userguide/contact-info-boxes-2.png) 
-
 ## Cookie consent.
 
 > It's in __Admin -> Appearance -> Theme__ options (tab __Cookie Consent__).
