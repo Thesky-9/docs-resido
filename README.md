@@ -1,4 +1,4 @@
-# Flow - Laravel Creative Multilingual Blog
+# Resido - Laravel Real Estate Multilingual System
 
 - [Introduction](#introduction)
 - [Demo](#demo)
@@ -8,9 +8,9 @@
 <a name="introduction"></a>
 ## Introduction
 
-Flow is a Creative Multilingual Blog script using Laravel 8.x. It's a product built on TheSky9 CMS.
+Resido is a Real Estate Multilingual System script using Laravel 8.x. It's a product built on TheSky9 CMS.
 
-Created: `May 28, 2021`
+Created: `July 20, 2021`
 
 By: [TheSky9 Technologies](https://thesky9.com)
 
@@ -22,9 +22,9 @@ please feel free to email via my user page contact form [here](https://codecanyo
 <a name="demo"></a>
 ## Demo
 
-Homepage: [https://flow.thesky9.com](https://flow.thesky9.com)
+Homepage: [https://resido.thesky9.com](https://resido.thesky9.com)
 
-Admin Area: [https://flow.thesky9.com/admin](https://flow.thesky9.com/admin)
+Admin Area: [https://resido.thesky9.com/admin](https://resido.thesky9.com/admin)
 
 Username: `admin`
 
