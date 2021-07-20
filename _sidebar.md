@@ -11,10 +11,12 @@
 - User guide
   - [Custom Site Identity](general.md)
   - [Menu](menu.md)
+  - [Footer](footer.md)
   - [Custom CSS & JS](cssjs.md)
   - [Translate](translate.md)
-- [Short code](shortcode.md)
-- [Config](config.md)
+  - [Short code](shortcode.md)
+  - [Config Real Estate](config-real-estate.md)
+  - [Config](config.md)
 - Available plugins
   - [Analytics](plugin-analytics.md)
   - [Backup](plugin-backup.md)
