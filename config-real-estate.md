@@ -25,6 +25,10 @@
 
 ## Review settings
 
-> Settings for review
+> Enable review
+
+![setting 6](_images/setting-real-estate/setting-6.png)
+
+> Settings Review fields
 
 ![setting 5](_images/setting-real-estate/setting-5.png)

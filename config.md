@@ -1,5 +1,13 @@
 # Config
 
+## Language
+
+> Go to __Admin -> Setting -> General__.
+
+Setting Language & Front site language direction
+
+![language](_images/setting/language.png)
+
 ## Setting Email
 
 > Go to __Admin -> Setting -> Email__.
