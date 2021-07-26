@@ -2,7 +2,7 @@
 
 > If you're a Laravel developer and you want to customize our source code in `platform/core` and `platform/packages`, you need to delete folder `/vendor` then run command `composer install` to reinstall vendor packages.
 
-  ![Env](_images/installation/50848231176_5a3ba243e7_b.jpeg)
+  ![Env](_images/installation/config-env.png)
 
 - Create `.env` file from `.env-example` and update your configuration.
 
