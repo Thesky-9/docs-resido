@@ -1,7 +1,7 @@
 # Install on hosting
 
 1. Upload all files into the root folder of your hosting (normally, it is `public_html`) .
-
+  ![Database](_images/installation/hosting_folder.png)
 2. Create a database and import data from database.sql (it's located in source code).
   ![Database](_images/installation/folder-resido.png)
 
@@ -19,7 +19,7 @@ DB_PASSWORD="password"
   ![Env](_images/installation/config-env.png)
   
 4.Go to `http://your-domain.com/admin` to access to admin panel.
-- The default admin account is `admin` - `12345678`.
+- The default admin account is `admin` - `12345678`
 
   ![Login](_images/installation/layout-admin-login.png)
 
