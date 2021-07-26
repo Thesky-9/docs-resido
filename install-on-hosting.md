@@ -24,4 +24,4 @@ DB_PASSWORD="password"
   ![Login](_images/installation/layout-admin-login.png)
 
 **Notes**: We are providing free installation service on Cpanel or Direct Admin for 1 time so you can contact us for installation if you can't install it.
-Please send a email to thesky9.com@gmail.com
+Please send an email to thesky9.com@gmail.com
