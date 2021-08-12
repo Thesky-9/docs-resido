@@ -1,5 +1,10 @@
 # Release Notes
 
+## 1.4.0 ( Aug 13, 2021 )
+
+- Fix social login
+- Refactor code
+
 ## 1.3.0 ( Aug 11, 2021 )
 
 > Theme 
@@ -12,6 +17,7 @@
 - Update core & payment gateways
 - Improve media config
 - Refactor code
+
 
 ## 1.2.0 ( Aug 05, 2021 )
 
