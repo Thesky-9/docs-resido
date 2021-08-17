@@ -94,6 +94,8 @@
 
 ## Find By Locations
 
+> Get 6 featured city. Go to  __Admin -> Locations -> Cities__.
+
 >[properties-by-locations title="Find By Locations"]At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores[/properties-by-locations]
 
 ![properties-by-locations](_images/shortcodes/find_by_location.png)

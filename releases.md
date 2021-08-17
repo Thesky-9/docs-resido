@@ -1,5 +1,13 @@
 # Release Notes
 
+## 1.5.0 ( Aug 18, 2021 )
+
+- Fix send email author
+- Fix empty image
+- Fix menu mobile agent
+- Update core backend
+- Update featured city
+
 ## 1.4.0 ( Aug 13, 2021 )
 
 - Fix social login
