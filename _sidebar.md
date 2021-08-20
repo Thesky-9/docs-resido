@@ -1,5 +1,6 @@
 - Prologue
   - [Releases](releases.md)
+  - [Upgrade](upgrade.md)
   - [License](license.md)
 - Getting started
   - [Introduction](README.md)

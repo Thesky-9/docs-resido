@@ -1,5 +1,12 @@
 # Release Notes
 
+## 1.6.0 ( Aug 20, 2021 )
+
+- Update UI
+- Add recently viewed properties
+- Support catpcha form login/register
+- Update core backend
+
 ## 1.5.0 ( Aug 18, 2021 )
 
 - Fix send email author
