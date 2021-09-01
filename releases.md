@@ -1,5 +1,16 @@
 # Release Notes
 
+## 1.7.0 ( Sep 01, 2021 )
+
+- Update UI
+- Update core
+- Improve Payment
+- Fix show map in property detail
+- Fix show location in property detail
+- Fix setting currency
+- Fix update credit
+- Fix translations in agent dashboard
+
 ## 1.6.0 ( Aug 20, 2021 )
 
 - Update UI
