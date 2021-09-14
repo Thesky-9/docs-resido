@@ -1,5 +1,21 @@
 # Release Notes
 
+## 1.8.0 ( Sep 15, 2021 )
+
+- Update lazyload image.
+- Fix feature icon.
+- Fix some bugs Theme.
+- Fix admin email.
+- Fix cache issue in media.
+- Improve theme custom CSS/JS.
+- Improve plugin Member, Blog & Newsletter.
+- Improve allowed iframe types.
+- Handle TokenMismatchException.
+- Prevent error when missing watermark image.
+- Update to the latest Laravel version 8.60.0
+- Improve core.
+- Optimize queries performance.
+
 ## 1.7.0 ( Sep 01, 2021 )
 
 - Update UI
