@@ -27,7 +27,7 @@ You need to run these commands to regenerate images
 
 `php artisan cms:media:thumbnail:delete`
 
-`php artisancms:media:thumbnail:generate`
+`php artisan cms:media:thumbnail:generate`
 `
 
 ## Upgrade to 1.7.0
