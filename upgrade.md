@@ -19,6 +19,17 @@
   - Delete all files in `storage/framework/views` and `storage/framework/cache`.
   - Go to Admin -> Translations -> Admin translations then click on `Import group` to update translations.
 
+- __Must__: 
+
+You need to run these commands to regenerate images
+
+`php artisan cms:media:chunks:clear`
+
+`php artisan cms:media:thumbnail:delete`
+
+`php artisancms:media:thumbnail:generate`
+`
+
 ## Upgrade to 1.7.0
 
 > This version requires PHP >= 7.3, make sure your hosting support PHP 7.3 or higher.
