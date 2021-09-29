@@ -1,5 +1,21 @@
 # Release Notes
 
+## 1.9.0 ( Sep 29, 2021 )
+
+Theme: 
+- Fix leaflet
+- Check types
+- Update lazyload
+- Fix translation
+- Fix review
+- Fix account language
+Admin:
+- Update Credits manual
+- Add plugin Newsletter
+- Fix Paypal
+- Fix & update core
+
+
 ## 1.8.0 ( Sep 15, 2021 )
 
 - Update lazyload image.
