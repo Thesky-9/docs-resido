@@ -1,5 +1,21 @@
 # Release Notes
 
+## 1.10.0 ( Oct 06, 2021 )
+
+Theme: 
+- Fix language
+- Fix search cities
+- Fix payment transaction
+- Update package
+- Add widget newsletters
+
+Admin:
+- Fix send email
+- Update bootstrap 5
+- Update editor & media
+- Improve UI
+- Add BunnyCDN cloud storage
+
 ## 1.9.0 ( Sep 29, 2021 )
 
 Theme: 
