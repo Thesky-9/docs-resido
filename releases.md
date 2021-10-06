@@ -1,5 +1,12 @@
 # Release Notes
 
+## 1.10.1 ( Oct 06, 2021 )
+
+- Fix some bugs
+- Fix translation of agent dashboard
+- Update seeder
+- Update core 5.22
+
 ## 1.10.0 ( Oct 06, 2021 )
 
 Theme: 
