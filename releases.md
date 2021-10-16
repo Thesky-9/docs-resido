@@ -1,5 +1,18 @@
 # Release Notes
 
+## 1.11.0 ( Oct 16, 2021 )
+
+- Fix RTL account
+- Fix Skin option
+- Improve RazorPay
+- Allow disabling post approval
+- Refactor code
+- Fix some bugs
+
+## 1.10.2 ( Oct 06, 2021 )
+
+- Fix some bugs
+
 ## 1.10.1 ( Oct 06, 2021 )
 
 - Fix some bugs
