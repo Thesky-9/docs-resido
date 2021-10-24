@@ -1,5 +1,14 @@
 # Release Notes
 
+## 1.12.0 ( Oct 24, 2021 )
+
+- Update code for property type
+- Fix icon field for facilities
+- Improve plugin Analytics
+- Improve plugin Multi-Language
+- Improve plugin Backup
+- Refactor code
+
 ## 1.11.0 ( Oct 16, 2021 )
 
 - Fix RTL account
