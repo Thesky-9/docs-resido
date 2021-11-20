@@ -1,6 +1,26 @@
 # Release Notes
 
-## 1.12.0 ( Oct 24, 2021 )
+## 1.13.0 ( Nov 21, 2021 )
+
+- Added option to disable credits system, agents can post their properties for free.
+- Fix search location
+- Fix filter
+- Fix social login
+- Fix admin bar setting.
+- Fix Stripe payment gateway in non-decimal currencies.
+- Fix UI agent dashboard.
+- Fix some small issues when upgrading to Bootstrap 5.
+- Improve multi-language.
+- Improve shortcode.
+- Improve plugin Analytics, view analytics data by date range.
+- Improve Razorpay.
+- Improve payment.
+- Improve core & UI.
+- Improve RTL mode.
+- Update to the latest Laravel version 8.72.0.
+- Optimize queries performance.
+
+## 1.12.0 ( Oct 25, 2021 )
 
 - Update code for property type
 - Fix icon field for facilities
@@ -8,6 +28,7 @@
 - Improve plugin Multi-Language
 - Improve plugin Backup
 - Refactor code
+- Fix some bugs
 
 ## 1.11.0 ( Oct 16, 2021 )
 
