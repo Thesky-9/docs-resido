@@ -2,6 +2,7 @@
 
 ## Upgrade to 1.13.0
 
+### 1. Manually
 > This version requires PHP >= 7.3, make sure your hosting support PHP 7.3 or higher.
 
 - For developers:
@@ -20,6 +21,14 @@
   - Delete all files in `storage/framework/views` and `storage/framework/cache`.
   - Go to Admin -> Translations -> Admin translations then click on `Import group` to update translations.
   - Go to Admin -> Plugins -> Real Estate Plugin . Please click "Deactive" and then click "Active" for it to update the changes
+
+### 2. Automatic - via website updater
+
+    - Access to Admin
+    - Platform Administration > System Updater
+    - The website will automatically detect the new version, click "Download & Install Update"
+
+**Note : Please backup your database and script files before upgrading.**
 
 ## Upgrade to 1.12.0
 
