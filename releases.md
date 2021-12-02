@@ -1,5 +1,20 @@
 # Release Notes
 
+## 1.14.0 ( Dec 02, 2021 )
+
+- Fix currency setting
+- Fix social login settings & improve media
+- Fix youtube
+- Allow cities work without state 
+- Refactor code
+- Update core
+- Update translate theme
+
+## 1.13.1 ( Nov 22, 2021 )
+
+- Fix filter grid layout
+- Fix language
+
 ## 1.13.0 ( Nov 21, 2021 )
 
 - Added option to disable credits system, agents can post their properties for free.
