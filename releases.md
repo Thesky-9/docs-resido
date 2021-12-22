@@ -1,5 +1,18 @@
 # Release Notes
 
+## 1.15.0 ( Dec 22, 2021 )
+
+- Fixed search by location.
+- Fixed shortcode properties revent viewed.
+- Improve search by location.
+- Improve editor & media.
+- Improve multi-language.
+- Improve editor & media.
+- Improve theme translations
+- Improve multi-language: cache routes per language
+- Improve RTL style.
+- Refactor code.
+
 ## 1.14.0 ( Dec 02, 2021 )
 
 - Fix currency setting
