@@ -1,5 +1,17 @@
 # Release Notes
 
+## 2.0.0 ( Jan 03, 2022)
+
+- Improve multi-language.
+- Added import cities & states from CSV.
+- Update dashboard widgets for real estate.
+- Improve contact form & fix dependencies
+- Fixed social login settings.
+- Fixed hero slide
+- Fixed mobile menu
+- Fixed duplicate shortcode in CKEditor & refactor code
+- Refactor code.
+
 ## 1.15.0 ( Dec 22, 2021 )
 
 - Fixed search by location.
