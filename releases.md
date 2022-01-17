@@ -1,5 +1,11 @@
 # Release Notes
 
+## 2.1.0 ( Jan 17, 2022)
+
+- Fixed import cities & states.
+- Fixed S3 config.
+- Refactor code.
+
 ## 2.0.0 ( Jan 03, 2022)
 
 - Improve multi-language.
