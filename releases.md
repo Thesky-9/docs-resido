@@ -1,5 +1,11 @@
 # Release Notes
 
+## 2.2.0 ( Feb 08, 2022)
+
+- Fixed import cities & states.
+- Fix CSS mobile.
+- Update schema for post & page
+
 ## 2.1.0 ( Jan 17, 2022)
 
 - Fixed import cities & states.
