@@ -22,7 +22,6 @@
   
 - Available plugins
   - [Post scheduler](./plugin/plugin-post-scheduler.md)
-  - [Ads](./plugin/plugin-ads.md)
   - [Analytics](./plugin/plugin-analytics.md)
   - [Backup](./plugin/plugin-backup.md)
   - [Contact Form](./plugin/plugin-contact-form.md)
