@@ -1,5 +1,10 @@
 # Release Notes
 
+## 2.3.0 ( Feb 22, 2022)
+
+- Improve shortcodes: Featured properties, Properties slide, Properties hero slide.
+- Improve multi-language.
+
 ## 2.2.0 ( Feb 08, 2022)
 
 - Fixed import cities & states.
