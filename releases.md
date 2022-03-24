@@ -1,5 +1,13 @@
 # Release Notes
 
+## 2.4.0 ( Mar 24, 2022)
+
+- Fix editor
+- Fix city
+- Fix language advanced
+- Refactor code.
+- Improve plugin system.
+
 ## 2.3.0 ( Feb 22, 2022)
 
 - Improve shortcodes: Featured properties, Properties slide, Properties hero slide.
