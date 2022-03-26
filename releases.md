@@ -1,5 +1,10 @@
 # Release Notes
 
+## 2.4.1 ( Mar 26, 2022)
+
+- Fix CSS header.
+- Fix Package Translation.
+
 ## 2.4.0 ( Mar 24, 2022)
 
 - Fix editor
