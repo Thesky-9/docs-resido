@@ -1,5 +1,13 @@
 # Release Notes
 
+## 2.5.0 ( Apr 14, 2022)
+
+- Update translation
+- Improve dashboard widgets
+- Fix property type.
+- Fix CSS Mobile.
+- Update core.
+
 ## 2.4.1 ( Mar 26, 2022)
 
 - Fix CSS header.
