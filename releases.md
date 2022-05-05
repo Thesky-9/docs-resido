@@ -1,5 +1,13 @@
 # Release Notes
 
+## 2.6.0 ( May 5, 2022)
+
+- Fix rating
+- Fix multi-language
+- Add media settings for thumbnail sizes
+- Add ability to share property via whatsapp
+- Refactor code
+
 ## 2.5.0 ( Apr 14, 2022)
 
 - Update translation
