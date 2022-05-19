@@ -1,5 +1,18 @@
 # Release Notes
 
+## 2.7.0 ( May 16, 2022)
+
+- Fix property sliders
+- Fix property detail page
+- Fix translation feature
+- Fix bugs
+- Fix hero style
+- Fix shortcode
+- Fix search min & max square
+- Add ability to set auto slider in homepage
+- Add image resolution tip for property
+- Refactor code
+
 ## 2.6.0 ( May 5, 2022)
 
 - Fix rating
