@@ -1,6 +1,6 @@
 # Release Notes
 
-## 2.7.0 ( May 16, 2022)
+## 2.7.0 ( May 19, 2022)
 
 - Fix property sliders
 - Fix property detail page
