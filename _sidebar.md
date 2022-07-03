@@ -27,18 +27,6 @@
   - [Contact Form](./plugin/plugin-contact-form.md)
   - [Social Login](./plugin/plugin-social-login.md)
 
-- Theme development
-  - [Overview](./theme/theme.md)
-  - [Routes](./theme/theme-routes.md)
-  - [Assets](./theme/theme-assets.md)
-  - [Menu](./theme/menu.md)
-  - [Breadcrumb](./theme/theme-breadcrumb.md)
-  - [Widget](./theme/theme-widget.md)
-  - [MVC Pattern](./theme/theme-mvc-pattern.md)
-  - [Theme options](./theme/theme-options.md)
-  - [Layouts](./theme/theme-layout.md)
-  - [Error pages](./theme/theme-error-pages.md)
-  - [Theme localization](./theme/theme-localization.md)
 - Core
   - [Roles & permissions](./core/role-permission.md)
   - [Media](./core/media.md)
