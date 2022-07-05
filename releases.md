@@ -1,5 +1,23 @@
 # Release Notes
 
+## 2.8.0 ( Jul 06, 2022)
+
+- Fix media
+- Fix traffic map
+- Fix filter
+- Fix multi-language
+- Fix theme translations
+- Fix cities search
+- Update location to able to update country code and dial code
+- Update editor
+- Improve language plugin
+- Refactor code
+- Improve menu
+- Improve translations
+- Improve media watermark
+- Improve plugin Backup
+- Improve form field customSelect & autocomplete
+
 ## 2.7.0 ( May 19, 2022)
 
 - Fix property sliders
