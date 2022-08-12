@@ -1,5 +1,15 @@
 # Release Notes
 
+## 2.9.0 ( Aug 12, 2022)
+
+- Update SSLCommerz payment gateway 
+- Update migrations
+- Update translate email
+- Improve PayPal & Stripe payment gateway
+- Fix media images field
+- Refactor code
+
+
 ## 2.8.0 ( Jul 06, 2022)
 
 - Fix media
