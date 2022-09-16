@@ -1,13 +1,13 @@
 # Release Notes
 
-## 2.10.0 ( Aug 12, 2022)
+## 2.10.0 ( Sep 16, 2022)
 
 - Fix bug language
 - Fix pagespeed optimization and language route prefix
 - Fix file upload visibility
 - Fix search properties
-- Fix sort by city name for get cities by state
-- Fix dompdf public path & add Catalonia flag
+- Fix sort by city name to getting cities by state
+- Fix dompdf public path & add the Catalonia flag
 - Fix reset email template
 - Fix captcha when login
 - Fix bugs on PHP 8
