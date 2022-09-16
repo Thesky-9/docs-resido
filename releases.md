@@ -1,5 +1,26 @@
 # Release Notes
 
+## 2.10.0 ( Aug 12, 2022)
+
+- Fix bug language
+- Fix pagespeed optimization and language route prefix
+- Fix file upload visibility
+- Fix search properties
+- Fix sort by city name for get cities by state
+- Fix dompdf public path & add Catalonia flag
+- Fix reset email template
+- Fix captcha when login
+- Fix bugs on PHP 8
+- Improve payment
+- Improve repository queries
+- Refactor migration
+- Refactor code
+
+## 2.9.1 ( Aug 15, 2022)
+
+- Fix plugin Location
+- Refactor code
+
 ## 2.9.0 ( Aug 12, 2022)
 
 - Update SSLCommerz payment gateway 
