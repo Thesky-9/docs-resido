@@ -1,5 +1,11 @@
 # Release Notes
 
+## 2.11.0 ( Sep 29, 2022)
+
+- Fix show recently properties view in property detail page
+- Fix shortcode
+- Refactor code
+
 ## 2.10.0 ( Sep 16, 2022)
 
 - Fix bug language

@@ -1,6 +1,6 @@
 # Upgrade Guide
 
-## Upgrade to version 2.8.0
+## Upgrade to version 2.11.0
 
 - Option 1 (Auto update): Go to Admin -> System Administration -> System Updater and click "Download & install update".
 
