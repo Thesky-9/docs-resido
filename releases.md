@@ -1,8 +1,19 @@
 # Release Notes
 
+## 2.12.0 ( Oct 30, 2022)
+
+- Fix the contact form
+- Fix the SEO title
+- Improve multi-language
+- Improve language & settings
+- Improve Vue components
+- Improve media
+- Add installer
+- Refactor code
+
 ## 2.11.0 ( Sep 29, 2022)
 
-- Fix show recently properties view in property detail page
+- Fix show recent properties view in the property detail page
 - Fix shortcode
 - Refactor code
 
@@ -15,7 +26,7 @@
 - Fix sort by city name to getting cities by state
 - Fix dompdf public path & add the Catalonia flag
 - Fix reset email template
-- Fix captcha when login
+- Fix the captcha when login
 - Fix bugs on PHP 8
 - Improve payment
 - Improve repository queries
@@ -40,7 +51,7 @@
 ## 2.8.0 ( Jul 06, 2022)
 
 - Fix media
-- Fix traffic map
+- Fix the traffic map
 - Fix filter
 - Fix multi-language
 - Fix theme translations
@@ -53,7 +64,7 @@
 - Improve translations
 - Improve media watermark
 - Improve plugin Backup
-- Improve form field customSelect & autocomplete
+- Improve form field custom select & autocomplete
 
 ## 2.7.0 ( May 19, 2022)
 
