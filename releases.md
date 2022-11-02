@@ -1,5 +1,13 @@
 # Release Notes
 
+## 2.13.0 ( Nov 02, 2022)
+
+- Fix SEO helper
+- Improve installer
+- Improve error handler
+- Improve editor
+- Update purifier config & update TinyMCE
+
 ## 2.12.0 ( Oct 30, 2022)
 
 - Fix the contact form
