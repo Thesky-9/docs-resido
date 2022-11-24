@@ -1,5 +1,24 @@
 # Release Notes
 
+## 2.13.2 ( Nov 24, 2022)
+
+Hotfix: media upload
+
+## 2.13.2 ( Nov 21, 2022)
+
+- Fix: simple slider
+- Improve queries & UI
+- Improve license activation
+
+
+## 2.13.1 ( Nov 9, 2022)
+
+- Update purifier config & update TinyMCE
+- Fix SEO helper
+- Refactor code
+- Fix upload agent images and property images in the account dashboard
+
+
 ## 2.13.0 ( Nov 02, 2022)
 
 - Fix SEO helper
