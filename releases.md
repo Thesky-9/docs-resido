@@ -1,8 +1,14 @@
 # Release Notes
 
+## 2.14.0 ( Dec 23, 2022)
+
+- Fix language
+- Fix avatar upload on rtl
+- Fix period
+
 ## 2.13.2 ( Nov 24, 2022)
 
-Hotfix: media upload
+- Hotfix: media upload
 
 ## 2.13.2 ( Nov 21, 2022)
 
