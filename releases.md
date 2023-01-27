@@ -1,5 +1,23 @@
 # Release Notes
 
+## 2.15.0 ( Jan 27, 2023)
+
+- Upgrade to Laravel framework 9.x
+- Drop PHP 7.x support.
+- Add option to install plugins from marketplace.botble.com in Admin -> Plugins.
+- Add option to clean up site data.
+- Add canonical tag for page, post, category, tag & gallery.
+- Able to update free plugins directly in Admin -> Plugins.
+- Fix Wasabi & BunnyCDN media driver.
+- Fix issue when enable page speed options in settings.
+- Fix sitemap JS libraries.
+- Change default Google Fonts CDN URL to fonts.bunny.net.
+- Improve performance.
+- Improve sitemap queries.
+- Improve core & UI.
+- Improve email template. Add Twig function.
+- Improve multi-language.
+
 ## 2.14.0 ( Dec 23, 2022)
 
 - Fix language
