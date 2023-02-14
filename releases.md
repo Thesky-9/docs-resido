@@ -1,5 +1,33 @@
 # Release Notes
 
+## 2.16.0 ( Feb 14, 2023 )
+
+- Fix small bug
+- Fix download translation locale
+- Purifier allows the audio tag
+- Improve analytics, fix installer
+- Fix plugin Language
+- Update maintenance mode view & Add alt for the image in Media
+- Add an option to disable the installer
+
+## 2.15.0 ( Jan 27, 2023)
+- Big update: Add type Project. Link : https://resido.thesky9.com/projects
+- Upgrade to Laravel framework 9.x
+- Drop PHP 7.x support.
+- Add option to install plugins from marketplace.botble.com in Admin -> Plugins.
+- Add option to clean up site data.
+- Add canonical tag for page, post, category, tag & gallery.
+- Able to update free plugins directly in Admin -> Plugins.
+- Fix Wasabi & BunnyCDN media driver.
+- Fix issue when enable page speed options in settings.
+- Fix sitemap JS libraries.
+- Change default Google Fonts CDN URL to fonts.bunny.net.
+- Improve performance.
+- Improve sitemap queries.
+- Improve core & UI.
+- Improve email template. Add Twig function.
+- Improve multi-language.
+
 ## 2.14.0 ( Dec 23, 2022)
 
 - Fix language
