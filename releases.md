@@ -11,6 +11,7 @@
 - Add an option to disable the installer
 
 ## 2.15.0 ( Jan 27, 2023)
+
 - Big update: Add type Project. Link : https://resido.thesky9.com/projects
 - Upgrade to Laravel framework 9.x
 - Drop PHP 7.x support.
