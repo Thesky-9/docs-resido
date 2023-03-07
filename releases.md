@@ -1,5 +1,30 @@
 # Release Notes
 
+## 2.17.0 ( Mar 7, 2023)
+
+- Fix coding standards
+- Fix show shortcode in project detail
+- Fix project
+- Fix create investor
+- Fix select2
+- Fix CKEditor
+- Refactor code
+
+## 2.16.2 ( Feb 26, 2023)
+
+- Update core
+- Fix small bugs
+- Refactor code
+
+## 2.16.1 ( Feb 21, 2023)
+
+- Fix agent property list
+- Fix create investor
+- Fix form property
+- Fix the preview PDF file & bulk changes in table
+- Fix coding standard
+- Update core
+
 ## 2.16.0 ( Feb 14, 2023 )
 
 - Fix small bug
@@ -12,23 +37,22 @@
 
 ## 2.15.0 ( Jan 27, 2023)
 
-- Big update: Add type Project. Link : https://resido.thesky9.com/projects
+- Big update: Add type Project. Link: https://resido.thesky9.com/projects
 - Upgrade to Laravel framework 9.x
 - Drop PHP 7.x support.
-- Add option to install plugins from marketplace.botble.com in Admin -> Plugins.
-- Add option to clean up site data.
+- Add an option to install plugins from marketplace.botble.com in Admin -> Plugins.
+- Add an option to clean up site data.
 - Add canonical tag for page, post, category, tag & gallery.
 - Able to update free plugins directly in Admin -> Plugins.
 - Fix Wasabi & BunnyCDN media driver.
-- Fix issue when enable page speed options in settings.
+- Fix the issue when enabling page speed options in settings.
 - Fix sitemap JS libraries.
-- Change default Google Fonts CDN URL to fonts.bunny.net.
+- Change the default Google Fonts CDN URL to fonts.bunny.net.
 - Improve performance.
 - Improve sitemap queries.
 - Improve core & UI.
 - Improve email template. Add Twig function.
 - Improve multi-language.
-
 ## 2.14.0 ( Dec 23, 2022)
 
 - Fix language
