@@ -1,5 +1,17 @@
 # Release Notes
 
+## 2.18.0 ( Apr 4, 2023)
+
+- Fix Js validation 
+- Fix route cache
+- Fix coding standard
+- Fix GA4
+- Fix plugin location
+- Fix PHPStand issues
+- Improve sitemap
+- Update core
+- Refactor code
+
 ## 2.17.0 ( Mar 7, 2023)
 
 - Fix coding standards
