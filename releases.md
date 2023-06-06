@@ -1,5 +1,28 @@
 # Release Notes
 
+## 2.19.0 (Jun 06, 2023)
+
+- Add multi-language for email templates
+- Fix issue when switching default language
+- Fix watermark issues: missing watermark for images in sub-folder
+- Add properties/projects import & export to CSV
+- Fallback option for Google Fonts cache
+- Disable scroll effect in the admin panel
+- Fix og:site_name
+- Fix bug on new Stripe API change
+- Fix search properties/projects
+- Fix bug download images in Admin -> Media
+- Fix preview PDF file & bulk changes in table
+- Fix sitemap issue when enable pagespeed optimizer
+- Publish translation files when activate plugin / upgrade to the new version
+- Make editor translatable, display based on admin language
+- Improve loading performance
+- Improve system updater & performance
+- Improve UI for installer
+- Improve sitemap (add sitemap indexes)
+- Improve Google Analytics settings
+- Improve admin notifications, hide notification if current logged user don't have permission to see it
+
 ## 2.18.0 ( Apr 4, 2023)
 
 - Fix Js validation 
