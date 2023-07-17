@@ -1,5 +1,25 @@
 # Release Notes
 
+## 2.20.0 (17 Jul, 2023)
+
+- Make property images sortable in agent dashboard
+- Bootstrap 5.3.0 compatible
+- Add cronjob setting instruction
+- Improve theme translations
+- Improve core & performance
+- Improve Analytics plugin, switch to use GA4, no more UA.
+- Improve plugin management.
+- Fix issue when switching default language
+- Improve admin notification: only keep notifications in 30 days
+- Improve setting pages
+- Improve captcha plugin, fix issue when using multiple captcha
+- Improve admin bar
+- Improve system updater & performance
+- Improve UI for installer
+- Improve core source code & performance
+- Add multi-language for email templates
+
+
 ## 2.19.0 (Jun 06, 2023)
 
 - Add multi-language for email templates
