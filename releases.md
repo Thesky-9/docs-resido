@@ -1,6 +1,16 @@
 # Release Notes
 
-## 2.20.0 (17 Jul, 2023)
+## 2.21.0 (Aug 08, 2023)
+- Improve tables
+- Fix seeder
+- Fix load vueApp in account dashboard page
+- Improve core & performance
+- Improve system updater & performance
+
+## 2.20.3 (Aug 03, 2023)
+- Fix load vueApp in account dashboard page
+
+## 2.20.0 (Jul 17, 2023)
 
 - Make property images sortable in agent dashboard
 - Bootstrap 5.3.0 compatible
