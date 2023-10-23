@@ -1,4 +1,16 @@
 # Release Notes
+## 2.22.0 (Oct 24, 2023)
+- Improve performance & theme UI
+- Add slugs translation
+- Improve multi-language
+- Add option to disable agent info in the property detail page
+- Fix text direction button in CKEditor
+- Fix issues when using PostgreSQL
+- Improve System updater
+- Improve core & performance
+- Improve locale/translation download
+- Improve Analytics widgets
+
 
 ## 2.21.0 (Aug 08, 2023)
 - Improve tables
