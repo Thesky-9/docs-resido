@@ -1,4 +1,24 @@
 # Release Notes
+
+## 3.0.0 (Jan 13, 2024)
+- Bigupdate
+- Revamp admin theme, make it super beautiful. Check this video: https://www.youtube.com/watch?v=tRxGSHL8bI0
+- Upgrade to Laravel 10.
+- Improve core code and performance.
+- Make it easier to customize
+- Fix plugin Analytics when extension bcmath not enabled
+- Fix media double click
+- Fix responsive issue on the admin panel
+- Add option to select language when installing script with installer
+- Add option to stop converting media file URL to friendly URL
+- Add user preference to select default language, dark/light mode...
+- Add option to set color for media folder
+- Add option to stop indexing a page
+- Improve Admin theme UI
+- Improve translations from the admin panel, make it easier to use.
+- Improve System updater, fix permission issues on some servers
+- Improve email notification settings
+
 ## 2.22.0 (Oct 24, 2023)
 - Improve performance & theme UI
 - Add slugs translation
