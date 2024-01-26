@@ -28,6 +28,7 @@
   - [Social Login](./plugin/plugin-social-login.md)
 
 - Core
+  - [API](./core/api.md)
   - [Roles & permissions](./core/role-permission.md)
   - [Media](./core/media.md)
   - [Filters](./core/filters.md)
