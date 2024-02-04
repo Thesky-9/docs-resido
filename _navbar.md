@@ -1,1 +1,0 @@
-* [PREVIEW](https://resido.thesky9.com/)
