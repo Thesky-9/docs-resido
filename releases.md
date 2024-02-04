@@ -1,7 +1,7 @@
 # Release Notes
 
 ## 3.0.0 (Jan 13, 2024)
-- Bigupdate
+
 - Revamp admin theme, make it super beautiful. Check this video: https://www.youtube.com/watch?v=tRxGSHL8bI0
 - Upgrade to Laravel 10.
 - Improve core code and performance.

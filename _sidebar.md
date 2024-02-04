@@ -27,20 +27,5 @@
   - [Contact Form](./plugin/plugin-contact-form.md)
   - [Social Login](./plugin/plugin-social-login.md)
 
-- Core
-  - [Roles & permissions](./core/role-permission.md)
-  - [Media](./core/media.md)
-  - [Filters](./core/filters.md)
-  - [Actions](./core/actions.md)
-  - [Shortcode](./core/shortcode.md)
-  - [Meta Box](./core/meta-box.md)
-  - [Dashboard Widgets](./core/dashboard-widgets.md)
-  - [Dashboard Menu](./core/dashboard-menu.md)
-  - [Form builder](./core/form-builder.md)
-  - [SEO helper](./core/seo-helper.md)
-  - [Enum](./core/enum.md)
-  - [Slug field](./core/slug-field.md)
-  - [Localization](./core/localization.md)
-  - [Sitemap](./core/sitemap.md)
-  - [Mail](./core/mail.md)
-  - [FAQ](./core/faq.md)
+- Theme development
+  - [Guide](theme-development.md)
