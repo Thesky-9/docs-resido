@@ -39,4 +39,4 @@ Views will be in `platform/themes/<your theme>/views`.
 
 You can create folder `platform/themes/<your theme>/src/Http/Controllers` and put all controllers you need here. Namespace for it will be `Theme\Ripple\Http\Controllers`.
 
-\- Routes: ``/platform/themes/<your theme>/routes`    
+\- Routes: `/platform/themes/<your theme>/routes`    
