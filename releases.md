@@ -1,5 +1,20 @@
 # Release Notes
 
+## 3.1.2 (Feb 25, 2024)
+
+- Fix properties listing with map
+- Fix account registration
+- Improve core
+
+
+## 3.1.0 (Feb 22, 2024)
+
+- Fix create menu
+- Fix media thumbnail
+- Improve email
+- Add custom CSS/JS for admin pane
+- Improve core & performance
+
 ## 3.0.0 (Jan 13, 2024)
 
 - Revamp admin theme, make it super beautiful. Check this video: https://www.youtube.com/watch?v=tRxGSHL8bI0
