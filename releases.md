@@ -1,5 +1,25 @@
 # Release Notes
 
+## 3.3.1 (May 12, 2024)
+
+- Fix showing images in the project.
+- Fix CSS & icons for RTL (right-to-left) layout.
+- Update core.
+
+## 3.3.0 (May 3, 2024)
+
+- Fix project in plugin RealEstate
+- Fix investor in plugin RealEstate
+- Fix show properties list on project detail page
+- Add shortcode project
+- Update core
+
+## 3.2.0 (Apr 23, 2024)
+
+- Fix investor in plugin RealEstate
+- Fix package in plugin RealEstate
+- Improve core & performance
+
 ## 3.1.2 (Feb 25, 2024)
 
 - Fix properties listing with map
