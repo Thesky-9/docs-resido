@@ -1,5 +1,30 @@
 # Release Notes
 
+## 5.0.0 (Apr 29, 2026)
+- Big update: Upgrade to Laravel 13 framework
+- Drop PHP 8.2 support, require PHP 8.3+ (supports PHP 8.4)
+- Migrate asset pipeline to Vite
+- Improve core: refactor location module, add `spatie/simple-excel` for import/export
+- Fix dropped `is_featured` filter from cities query on theme front
+- Rebuild assets, update third-party libraries to the latest version
+- Improve cache and overall performance
+- Optimize source code
+
+## 4.1.0 (Sep 02, 2025)
+- Upgrade to Laravel 12.0, support PHP 8.3
+- Update CKEditor, Google Fonts and Tabler icons
+- Add plugin FOB Comment
+- Add an option to turn off post approval.
+- Add an option to permanently delete media files, bypassing the trash.
+- Add support some new HTML tags
+- Add Bootstrap Grid Columns button to editor https://prnt.sc/kZwPbJqp3Qpj
+- Improve backup: add option to backup database only
+- Improve UI front theme and admin panel
+- Improve cache for better performance
+- Optimize source code
+- Update third-party libraries to the latest version
+
+
 ## 4.0.0 (Dec 28, 2024)
 
 - Change minimum PHP version: Require PHP 8.2.0 or higher.
